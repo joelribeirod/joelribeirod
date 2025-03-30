@@ -12,6 +12,7 @@
   - 💬 Possuo conhecimento com Node.js, React.js, MySql, JavaScript, Html e Css<br>
   - 🔭 Atualmente busco oportunidades para me desenvolver como profissional<br>
   - 🌱 Estudo como desenvolver aplicações back-end de forma segura e eficiente<br>
+  - 📧 joelribeirod2201@gmail.com
 </div>
 
 
