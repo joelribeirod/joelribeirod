@@ -13,13 +13,12 @@
 
 [Projeto Art-Now](https://joelribeirod.github.io/projeto-artnow/)<br>
 [Projeto de FlashCards](https://joelribeirod.github.io/html-css/Tentativas/Tentativa06/index.html)
-
-### Objetivos 
+## 🔧 Tecnologias
+  💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, JavaScript, Html e Css<br>
+## 🎯 Objetivos 
   🔭 Busco oportunidades para me desenvolver como profissional<br>
   🔨 Estudo como desenvolver aplicações Web e Back-End de forma segura e eficiente<br>
-### Tecnologias
-   💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, JavaScript, Html e Css<br>
-### Contato 
+## 📬 Contato 
   📧 joelribeirod2201@gmail.com
 
 
