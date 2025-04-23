@@ -11,7 +11,7 @@
 
 ## ⚒ Projetos
 
-[Projeto Art-Now](https://joelribeirod.github.io/projeto-artnow/)<br>
+[Projeto Art-Now](https://github.com/joelribeirod/projeto-artnow)<br>
 [Projeto de FlashCards](https://joelribeirod.github.io/html-css/Tentativas/Tentativa06/index.html)
 ## 🔧 Tecnologias
   💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, JavaScript, Html e Css<br>
