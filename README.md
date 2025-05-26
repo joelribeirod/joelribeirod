@@ -14,7 +14,8 @@
 - **[Projeto Art-Now](https://github.com/joelribeirod/projeto-artnow)**<br>
 
 #### Html, Css e JavaScript
-- **[Projeto de FlashCards](https://joelribeirod.github.io/html-css/Tentativas/Tentativa06/index.html)**
+
+- **[Projeto de FlashCards](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
 ## 🔧 Tecnologias
   💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, JavaScript, Html e Css<br>
 ## 🎯 Objetivos 
