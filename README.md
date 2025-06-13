@@ -14,9 +14,11 @@
 #### Node.js + React.js + MySql
 - **[Projeto Art-Now](https://github.com/joelribeirod/projeto-artnow)**<br>
 
+#### Node.js + WebSckets + MongoDB
+- **[Projeto de Chat Global](https://github.com/joelribeirod/WebSockets/tree/main/chatGlobal)**
 #### Html, Css e JavaScript
-
 - **[Projeto de FlashCards](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
+
 ## 🔧 Tecnologias
   💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, MongoDB, JavaScript, Html e Css<br>
 ## 🎯 Objetivos 
