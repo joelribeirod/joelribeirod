@@ -16,7 +16,8 @@
 
 #### Node.js + WebScokets + MongoDB
 - **[Projeto de Chat Global](https://github.com/joelribeirod/WebSockets/tree/main/chatGlobal)**
-#### Html, Css e JavaScript
+
+#### Html + Css + JavaScript
 - **[Projeto de FlashCards](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
 
 ## 🔧 Technologies
