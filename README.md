@@ -1,5 +1,5 @@
-# Quem sou eu?
-### Olá, me chamo Joel Ribeiro! Sou desenvolvedor Full-Stack e estudo tecnologias como Node.js, React.js e MySQL. Atualmente estou em busca de oportunidades para aplicar meus conhecimentos e continuar evoluindo de forma profissional.
+# Who am I?
+### Hello, my name is Joel Ribeiro! I'm a fullstack developer and I study technologies like Node.js, React.js and MySQL. Nowadays, I'm looking for an opportunity to apply my knowledge and continue evolving in the professional field.
 <div>
   <img width="40" height = "30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img width="40" height = "30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
@@ -10,22 +10,24 @@
   <img width="40" height = "30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>  
 </div> <hr>
 
-## ⚒ Projetos
+## ⚒ Projects
 #### Node.js + React.js + MySql
 - **[Projeto Art-Now](https://github.com/joelribeirod/projeto-artnow)**<br>
 
-#### Node.js + WebSckets + MongoDB
+#### Node.js + WebScokets + MongoDB
 - **[Projeto de Chat Global](https://github.com/joelribeirod/WebSockets/tree/main/chatGlobal)**
 #### Html, Css e JavaScript
 - **[Projeto de FlashCards](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
 
-## 🔧 Tecnologias
-  💬 Atualmente estudo e trabalho com Node.js, React.js, MySql, MongoDB, JavaScript, Html e Css<br>
-## 🎯 Objetivos 
-  🔭 Busco oportunidades para me desenvolver como profissional<br>
-  🔨 Estudo como desenvolver aplicações Web e Back-End de forma segura e eficiente<br>
-## 📬 Contato 
-  📧 joelribeirod2201@gmail.com
+## 🔧 Technologies
+  💬 Nowadays I study technologies like Node.js, React.js, MySql, MongoDB, JavaScript, Html and Css<br>
+## 🎯 Goals
+  🔭 Looking for an opportunity to evolve as a professional<br>
+  🔨 I'm learning how to develop Web Applications and Back-End servers with security and efficiency<br>
+## 📬 Contact
+  📧 joelribeirod2201@gmail.com <br>
+  <br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelribeirod/)
 
 
 
