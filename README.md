@@ -12,13 +12,13 @@
 
 ## ⚒ Projects
 #### Node.js + React.js + MySql
-- **[Projeto Art-Now](https://github.com/joelribeirod/projeto-artnow)**<br>
+- **[Art-Now Project](https://github.com/joelribeirod/projeto-artnow)**<br>
 
 #### Node.js + WebScokets + MongoDB
-- **[Projeto de Chat Global](https://github.com/joelribeirod/WebSockets/tree/main/chatGlobal)**
+- **[WebSockets Project Series](https://github.com/joelribeirod/WebSockets)**
 
 #### Html + Css + JavaScript
-- **[Projeto de FlashCards](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
+- **[FlashCards Project](https://github.com/joelribeirod/html-css/tree/main/Tentativas/Tentativa06)**
 
 ## 🔧 Technologies
   💬 Nowadays I study technologies like Node.js, React.js, MySql, MongoDB, JavaScript, Html and Css<br>
